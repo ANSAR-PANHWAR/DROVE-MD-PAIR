@@ -164,7 +164,7 @@ async function startnigg(phone) {
           await xlicon.sendMessage(
             xlicon.user.id,
             {
-              text: 'HELLO there PANHWAR-MD User! 👋🏻 \n\n> Do not share session id with anyone.\n\n*Thanks for using PANHWAR-MD 👑* \n\n> Join WhatsApp Channel :- ⤵️\n\nhttps://whatsapp.com/channel/0029ValASu1IN9ifummBKW1U \n\nDont forget to fork the repo ⬇️ \n\nhttps://github.com/ANSAR-PANHWAR/PANHWAR-MD \n\n> *© Powered BY Ansar-Panhwar 👑* \n',
+              text: 'HELLO there PANHWAR-MD User! 👋🏻 \n\n> Do not share session id with anyone.\n\n*Thanks for using PANHWAR-MD 👑* \n\n> Join WhatsApp Channel :- ⤵️\n\nhttps://whatsapp.com/channel/0029Vb5q797K0IBn4SW2hO2R \n\nDont forget to fork the repo ⬇️ \n\nhttps://github.com/ANSAR-PANHWAR/PANHWAR-MD \n\n> *© Powered BY Ansar-Panhwar 👑* \n',
             },
             { quoted: guru }
           )
